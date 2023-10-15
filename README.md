@@ -1,5 +1,7 @@
 # Calculadora-em-JS
 
+![](./calculadora-img.png) 
+
 Calculadora iOS em JavaScript
 Este é um projeto de uma calculadora desenvolvida em JavaScript que simula a aparência e funcionalidade da calculadora do iPhone. É uma calculadora simples, que permite executar operações matemáticas básicas.
 
